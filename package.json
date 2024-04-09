@@ -22,9 +22,12 @@
     ]
   },
   "author": {
-    "name": "Christoph Lorenzi",
-    "email": "christoph@sennep.com",
-    "url": "https://sennep.com"
+    "name": "Azamat Atikeyev",
+    "email": "azamat.atikeyev17@gmail.com",
+    "url": "https://azamat-atikeyev.netlify.com"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "canvas-sketch-cli": "^1.11.21"
+  }
 }
